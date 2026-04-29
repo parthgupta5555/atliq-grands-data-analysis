@@ -6,6 +6,14 @@ Atliq Grands, a luxury hotel chain operating across multiple cities, has been ex
 
 ---
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="hotel_dashboard.png" alt="Hotel Dashboard" width="800"/>
+</p>
+
+---
+
 ## Objective
 
 * Analyze booking data to understand revenue trends and occupancy patterns
